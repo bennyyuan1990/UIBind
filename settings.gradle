@@ -1,1 +1,1 @@
-include ':app', ':viewbind', ':compile'
+include ':app', ':viewbind', ':compile', ':bindapt'
